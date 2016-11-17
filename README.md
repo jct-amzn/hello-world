@@ -1,2 +1,2 @@
 # hello-world
-you know
+Burn after reading
